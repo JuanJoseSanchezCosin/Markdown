@@ -26,5 +26,5 @@ Incluso usar código HTML dentro de markdown
 <div class="recuadro-verde">
     Esto es texto dentro de un div verde.
 </div>
-
+**No funciona el recuadro div en color verde**
 
