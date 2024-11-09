@@ -19,6 +19,6 @@ Podemos poner imágenes!
 
 Incluso usar código HTML dentro de markdown
 
-<div style="border: 1px solid #309920; padding:10px;">
+<div class="recuadro-verde">
     Esto es texto dentro de un div verde.
 </div>
