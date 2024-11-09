@@ -2,11 +2,11 @@
 
 * [Este](https://eiffage.es/) es un enlace a la página de la empresa Eiffage Energía, donde trabajo en los Juzgados de Sagunto en el área de Mantenimiento.
 * Después de mi trabajo, voy a estudiar 1º de Desarrollo de Aplicaciones Web en el instituto IES Camp de Morvedre. Aquí está el [enlace al instituto](https://portal.edu.gva.es/iescamp/va/centre/).
-* Además de trabajar y estudiar, por las tardes siempre me sale faena de **mantenimientos e instalaciones** en casas de conocidos, funcionari@ abogad@s, Guardia Civil, letrad@ y jueces, por ello *siempre estoy ocupado y tengo poco tiempo para el estudio*. Intento quitarme faenas pero siempre acaban llamandome.
+* Además de trabajar y estudiar, por las tardes siempre me sale faena de **mantenimientos e instalaciones** en casas de conocidos, funcionari@ abogad@s, Guardia Civil, letrad@s y jueces, por ello *siempre estoy ocupado y tengo poco tiempo para el estudio*. Intento quitarme faenas pero siempre acaban llamandome.
 
 ## Horario de Trabajo, Estudio y trabajos extras.
 
-| Día         | Horario de Trabajo       | Actividades Extra o Estudio                    |
+| Día         | Horario de Trabajo       | Actividades Extra o Estudio    s               |
 |-------------|--------------------------|------------------------------------------------|
 | Lunes       | 7:00 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
 | Martes      | 7:00 - 15:15             | 15:30 - 17:30 Tutoría de Programación          |
@@ -16,7 +16,7 @@
 
 > ¿Sabes como me siento? **Pues me siento sin tiempo y con muchos frentes**
 
-Podemos poner imágenes!  
+¡Aquí muestro una imágen mía de un día en Calpe!  
 ![IMG_20240817_140810](https://github.com/user-attachments/assets/80218d31-e480-4426-b833-b3667d6dddf4)
 
 
@@ -41,7 +41,7 @@ No funciona el recuadro div en color verde, no se porque.
 
 ---
 
-## Visítame en [GitHub](https://github.com/juanjosesanchezcosin)
+## Visítame en mi perfil [GitHub](https://github.com/juanjosesanchezcosin)
 
 Y también puedes ver mi porfolio aquí: [Mi porfolio](https://juanjosesanchezcosin.github.io/html_css_java_script/)
 
