@@ -6,7 +6,7 @@
   
 ## Tabla de ejemplo
 
-| Asigantura             | Nota | Aprobado/Suspenso   |
+| Asignatura             | Nota | Aprobado/Suspenso   |
 |------------------------|------|---------------------|
 | Programación           |  8   |       Aprobado      |
 | Proyecto intermoduar   |  9   |       Aprobado      |
