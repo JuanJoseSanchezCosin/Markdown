@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="assets/styles.css">
-
-## Mi documento Markdown de Juan José Sánchez
+# Mi documento Markdown de Juan José Sánchez
 
 * [Este](https://eiffage.es/) es un enlace a la página de la empresa Eiffage Energía, donde trabajo en los Juzgados de Sagunto en el área de Mantenimiento.
 * Después de mi trabajo, voy a estudiar 1º de Desarrollo de Aplicaciones Web en el instituto IES Camp de Morvedre. Aquí está el [enlace al instituto](https://portal.edu.gva.es/iescamp/va/centre/).
@@ -26,5 +24,4 @@ Incluso usar código HTML dentro de markdown
 <div class="recuadro-verde">
     Esto es texto dentro de un div verde.
 </div>
-**No funciona el recuadro div en color verde**
-
+No funciona el recuadro div en color verde
