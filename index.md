@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/styles.css">
+
 ## Mi documento Markdown de Juan José Sánchez
 
 * [Este](https://eiffage.es/) es un enlace a la página de la empresa Eiffage Energía, donde trabajo en los Juzgados de Sagunto en el área de Mantenimiento.
