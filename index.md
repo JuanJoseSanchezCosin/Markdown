@@ -6,10 +6,10 @@
   
 ## Tabla de ejemplo
 
-| Nombre     | Edad | Ciudad   |
-|------------|------|----------|
-| Juanjo     | 38   | Valencia |
-| Marian     | 40   | Valencia |
+| Asigantura             | Nota | Aprobado/Suspenso   |
+|------------------------|------|---------------------|
+| Programación           |  8   |       Aprobado      |
+| Proyecto intermoduar   |  9   |       Aprobado      |
 
 
 > ¿Sabes que este mismo documento está hecho en **markdown**?
