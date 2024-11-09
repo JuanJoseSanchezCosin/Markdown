@@ -35,5 +35,5 @@ Podemos usar HTML dentro de Markdown.
 
 No funciona el recuadro div en color verde, no se porque.
 
-## Visítame en [Mi Porfolio de GitHub](https://github.com/juanjo-sanchez)
+## Visítame en [Mi Porfolio de GitHub](https://juanjosesanchezcosin.github.io/html_css_java_script/))
 
