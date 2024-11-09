@@ -6,19 +6,25 @@
 
 ## Horario de Trabajo y Estudios
 
-| Día         | Horario de Trabajo       | Actividades Extra o Estudio                  |
-|-------------|--------------------------|----------------------------------------------|
-| Lunes       | 7:30 - 15:15             | Llego a casa y me pongo con tareas o trabajo |
-| Martes      | 7:30 - 15:15             | 15:30 - 17:30 Tutoría de Programación        |
-| Miércoles   | 7:30 - 15:15             | 18:10 - 20:00 Base de Datos (ocasional)      |
-| Jueves      | 7:30 - 15:15             | Llego a casa y me pongo con tareas o trabajo |
-| Viernes     | 7:30 - 15:15             | Llego a casa y me pongo con tareas o trabajo |
+| Día         | Horario de Trabajo       | Actividades Extra o Estudio                    |
+|-------------|--------------------------|------------------------------------------------|
+| Lunes       | 7:30 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
+| Martes      | 7:30 - 15:15             | 15:30 - 17:30 Tutoría de Programación          |
+| Miércoles   | 7:30 - 15:15             | 18:10 - 20:00 Base de Datos (ocasional)        |
+| Jueves      | 7:30 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
+| Viernes     | 7:30 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
 
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
 Podemos poner imágenes!  
 ![IMG_20240817_140810](https://github.com/user-attachments/assets/80218d31-e480-4426-b833-b3667d6dddf4)
 
+# Trabajos web
+
+En mis ratos libres también me piden algún trabajo de creación de webs, como este que creé hace unos meses:
+
+[Visita la web que creé: LegisCenter](https://legiscenter.es)
+ 
 Incluso usar código HTML dentro de markdown
 
 <div class="recuadro-verde">
