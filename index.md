@@ -8,11 +8,11 @@
 
 | Día         | Horario de Trabajo       | Actividades Extra o Estudio                    |
 |-------------|--------------------------|------------------------------------------------|
-| Lunes       | 7:30 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
-| Martes      | 7:30 - 15:15             | 15:30 - 17:30 Tutoría de Programación          |
-| Miércoles   | 7:30 - 15:15             | 18:10 - 20:00 Base de Datos (ocasional)        |
-| Jueves      | 7:30 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
-| Viernes     | 7:30 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
+| Lunes       | 7:00 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
+| Martes      | 7:00 - 15:15             | 15:30 - 17:30 Tutoría de Programación          |
+| Miércoles   | 7:00 - 15:15             | 18:10 - 20:00 Base de Datos (ocasional)        |
+| Jueves      | 7:00 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
+| Viernes     | 7:00 - 15:15             | Me pongo con tareas o trabajo de algún cliente |
 
 > ¿Sabes como me siento? **Pues me siento sin tiempo y con muchos frentes**
 
