@@ -2,7 +2,7 @@
 
 * [Este](https://eiffage.es/) es un enlace a la página de la empresa Eiffage Energía, donde trabajo en los Juzgados de Sagunto en el área de Mantenimiento.
 * Después de mi trabajo, voy a estudiar 1º de Desarrollo de Aplicaciones Web en el instituto IES Camp de Morvedre. Aquí está el [enlace al instituto](https://portal.edu.gva.es/iescamp/va/centre/).
-* Además de trabajar y estudiar, por las tardes siempre me sale faena de **mantenimientos e instalaciones** en casas de conocidos, funcionari@ abogad@s, Guardia Civil, letrad@s y jueces, por ello *siempre estoy ocupado y tengo poco tiempo para el estudio*. Intento quitarme faenas pero siempre acaban llamandome.
+* Además de trabajar y estudiar, por las tardes siempre me sale faena de **mantenimientos e instalaciones** en casas de conocidos, funcionari@ abogad@s, Guardia Civil, letrad@s y Jueces, por ello *siempre estoy ocupado y tengo poco tiempo para el estudio*. Intento quitarme faenas pero siempre acaban llamandome.
 
 ## Horario de Trabajo, Estudio y trabajos extras.
 
